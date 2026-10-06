@@ -65,6 +65,6 @@ Minecraft Bedrock Edition向けの、荒らし・グリッチ対策アドオン�
 
 例:
 
-```text
+text
 [警告] dashimaki4797 のロック済みコンテナが移動または消失しました。
 対象コンテナの座標 100,64,200　最寄りのプレイヤー名 PlayerA
